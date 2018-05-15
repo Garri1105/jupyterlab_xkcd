@@ -12,6 +12,7 @@ import {
     Widget
 } from '@phosphor/widgets';
 
+
 /**
  * Initialization data for the jupyterlab_xkcd extension.
  */
